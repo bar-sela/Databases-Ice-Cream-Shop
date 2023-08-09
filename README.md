@@ -1,5 +1,9 @@
 # Ice Cream Shop
 
+this project is a clone of a project i did with my partner in the "Databases" course. 
+Link for the original: https://github.com/ShaniVahav/Databases-project-2-Ice-Cream-Shop.git
+
+
 ![](https://blog-assets.lightspeedhq.com/img/2021/03/e4bcf36b-blog_are-you-really-ready-to-open-an-ice-cream-shop_1200x628.jpg)
 
 ## MySQL and MongoDB project of managing Ice Cream Shop
