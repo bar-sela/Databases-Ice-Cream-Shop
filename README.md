@@ -1,6 +1,7 @@
 # Ice Cream Shop
 
-this project is a clone of a project i did with my partner in the "Databases" course. 
+This project is a clone of a project i did with my partner in the "Databases" course. 
+
 Link for the original: https://github.com/ShaniVahav/Databases-project-2-Ice-Cream-Shop.git
 
 
